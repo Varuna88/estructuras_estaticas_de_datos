@@ -1,0 +1,14 @@
+"""Hallar el cociente y el residuo de dos números enteros.
+
+"""
+
+
+num1 = int(input("Ingresa un número entero: "))
+num2 = int(input("Ingresa otro número entero: "))
+
+if num2 != 0:
+    cociente = num1 // num2
+    residuo = num1 % num2
+    print(f"El cociente es {cociente} y el residuo es {residuo}")
+else:
+    print("Error: No se puede dividir entre cero.")
