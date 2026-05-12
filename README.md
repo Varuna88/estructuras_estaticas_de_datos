@@ -2,7 +2,7 @@
 Repositorio para prácticas de estructura de datos
 
 Palabras reservadas:
-ihiuhuihihiuh
+math()
 if
 elif
 else
