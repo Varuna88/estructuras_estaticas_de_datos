@@ -8,6 +8,15 @@ elif
 else
 
 
-1. Variables
+Aporte por Emmanuel Mariscal
+Tipos de datos Python:
+Boleanos
+Texto
 
-2. hotla
+Tipos de datos PHP:
+string
+object
+
+Tipos de datos Javascript:
+BigInt
+Symbol
